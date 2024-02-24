@@ -1,0 +1,35 @@
+:root {
+  /* fonts */
+  --h3: Raleway;
+  --h2: Quicksand;
+  --h1: Assistant;
+
+  /* font sizes */
+  --h1-emphasize-1-desktop: 5vw;
+  --h1-emphasize-1-mobile: 7.5vw;
+  --h1-emphasize-2-desktop: 4vw;
+  --h1-emphasize-2-mobile: 7vw;
+  --h1-emphasize-3-desktop: 2.5vw;
+  --h1-emphasize-3-mobile: 7.5vw;
+  --h1-emphaisze-4-desktop: 6vw;
+  --h1-emphaisze-4-mobile: 10vw;
+  --h2-emphasize-desktop: 1.5vw;
+  --h2-content-desktop: 1.8vw;
+  --h2-content-mobile: 4vw;
+  --h3-content-desktop: 1.3vw;
+  --p-text: 1.1vw;
+  --p-text-mobile: 4vw;
+  --p-text-2-mobile: 3vw;
+  --p-small: 0.8vw;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-mediumslateblue-100: #6f65fa;
+  --color-mediumslateblue-200: #6569f6;
+  --color-mediumslateblue-300: #575dff;
+  --color-ghostwhite: #f5f5ff;
+  --color-darkgray: #9f9f9f;
+  --color-gray: #011936;
+  --color-gradient: linear-gradient(250.03deg, #D5D6F9 -22.1%, rgba(255, 255, 255, 0) 92.21%), #FFFFFF;
+}
